@@ -14,7 +14,9 @@ npm install
 ```
 ### Step 3: Add env
 ```bash
-Add .env file to the root of the backend directory, Copy the keys from .env.example and fill the desired values, copy paste the MONGODB_URI to connect with mongodb
+Add .env file to the root of the backend directory, 
+Copy the keys from .env.example and fill the desired 
+values, copy paste the MONGODB_URI to connect with mongodb
 ```
 ### Step 4: Generate API_KEY
 
